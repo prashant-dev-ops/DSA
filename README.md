@@ -11,12 +11,15 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prashant-dev-ops/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/prashant-dev-ops/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/prashant-dev-ops/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
