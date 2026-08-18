@@ -17,9 +17,11 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/prashant-dev-ops/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/prashant-dev-ops/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
