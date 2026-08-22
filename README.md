@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0001-two-sum) |
+| [0059-spiral-matrix-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
