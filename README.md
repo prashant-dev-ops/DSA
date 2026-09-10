@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0001-two-sum) |
 | [0059-spiral-matrix-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0134-gas-station](https://github.com/prashant-dev-ops/DSA/tree/master/0134-gas-station) |
+| [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/prashant-dev-ops/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prashant-dev-ops/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/prashant-dev-ops/DSA/tree/master/0134-gas-station) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
