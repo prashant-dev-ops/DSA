@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0134-gas-station](https://github.com/prashant-dev-ops/DSA/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
