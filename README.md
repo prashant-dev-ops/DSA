@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/prashant-dev-ops/DSA/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0503-next-greater-element-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/prashant-dev-ops/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prashant-dev-ops/DSA/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/prashant-dev-ops/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0059-spiral-matrix-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0503-next-greater-element-ii) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
