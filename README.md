@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0001-two-sum) |
 | [0059-spiral-matrix-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/prashant-dev-ops/DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/prashant-dev-ops/DSA/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/prashant-dev-ops/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/prashant-dev-ops/DSA/tree/master/0509-fibonacci-number) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
