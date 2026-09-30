@@ -56,15 +56,18 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/prashant-dev-ops/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prashant-dev-ops/DSA/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/prashant-dev-ops/DSA/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/prashant-dev-ops/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/prashant-dev-ops/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/prashant-dev-ops/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/prashant-dev-ops/DSA/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
