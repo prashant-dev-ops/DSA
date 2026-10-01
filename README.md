@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashant-dev-ops/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prashant-dev-ops/DSA/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/prashant-dev-ops/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prashant-dev-ops/DSA/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prashant-dev-ops/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/prashant-dev-ops/DSA/tree/master/0198-house-robber) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prashant-dev-ops/DSA/tree/master/0225-implement-stack-using-queues) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/prashant-dev-ops/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
