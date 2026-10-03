@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/prashant-dev-ops/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/prashant-dev-ops/DSA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/prashant-dev-ops/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/prashant-dev-ops/DSA/tree/master/0234-palindrome-linked-list) |
@@ -130,11 +132,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
