@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-dev-ops/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0856-score-of-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-dev-ops/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-dev-ops/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
