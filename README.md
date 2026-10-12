@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/prashant-dev-ops/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/prashant-dev-ops/DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/prashant-dev-ops/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/prashant-dev-ops/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-dev-ops/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/prashant-dev-ops/DSA/tree/master/0091-decode-ways) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-dev-ops/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prashant-dev-ops/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
