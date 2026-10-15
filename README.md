@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1277-count-square-submatrices-with-all-ones](https://github.com/prashant-dev-ops/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prashant-dev-ops/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prashant-dev-ops/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prashant-dev-ops/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/prashant-dev-ops/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prashant-dev-ops/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prashant-dev-ops/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
 |  |
 | ------- |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prashant-dev-ops/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prashant-dev-ops/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prashant-dev-ops/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
