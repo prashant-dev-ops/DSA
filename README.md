@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/prashant-dev-ops/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prashant-dev-ops/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prashant-dev-ops/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prashant-dev-ops/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prashant-dev-ops/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prashant-dev-ops/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prashant-dev-ops/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-dev-ops/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prashant-dev-ops/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
