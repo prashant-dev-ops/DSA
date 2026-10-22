@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-dev-ops/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prashant-dev-ops/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/prashant-dev-ops/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prashant-dev-ops/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prashant-dev-ops/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/prashant-dev-ops/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/prashant-dev-ops/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bracket Sequences
 |  |
