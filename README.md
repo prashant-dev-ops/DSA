@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-dev-ops/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/prashant-dev-ops/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/prashant-dev-ops/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/prashant-dev-ops/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-dev-ops/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/prashant-dev-ops/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/prashant-dev-ops/DSA/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prashant-dev-ops/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/prashant-dev-ops/DSA/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prashant-dev-ops/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
