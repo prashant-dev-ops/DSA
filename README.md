@@ -232,4 +232,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prashant-dev-ops/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prashant-dev-ops/DSA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prashant-dev-ops/DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prashant-dev-ops/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prashant-dev-ops/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
