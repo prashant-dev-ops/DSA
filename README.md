@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/prashant-dev-ops/DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/prashant-dev-ops/DSA/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/prashant-dev-ops/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prashant-dev-ops/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-dev-ops/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/prashant-dev-ops/DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/prashant-dev-ops/DSA/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/prashant-dev-ops/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-dev-ops/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/prashant-dev-ops/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -248,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashant-dev-ops/DSA/tree/master/0100-same-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
