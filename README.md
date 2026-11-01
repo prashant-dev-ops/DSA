@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prashant-dev-ops/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashant-dev-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/prashant-dev-ops/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/prashant-dev-ops/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/prashant-dev-ops/DSA/tree/master/0143-reorder-list) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashant-dev-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/prashant-dev-ops/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/prashant-dev-ops/DSA/tree/master/0091-decode-ways) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-dev-ops/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -259,4 +261,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/prashant-dev-ops/DSA/tree/master/0494-target-sum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashant-dev-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashant-dev-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashant-dev-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashant-dev-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
